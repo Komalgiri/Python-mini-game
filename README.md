@@ -1,6 +1,6 @@
 # Python-mini-game
 **Tic Tac Toe Game**
-<img align="right" alt="Coding" width="80" src="https://w7.pngwing.com/pngs/560/77/png-transparent-socioeconomic-status-income-social-class-in-colombia-household-renting-level-logo-pollution-adjusted-gross-income-thumbnail.png">
+<img align="right" alt="Coding" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98tOHxk4DKaMb7sfMmdYsBunpRtmVzwcKnQ">
 
 
 This repository contains a Python implementation of the classic Tic Tac Toe game that you can play in the terminal.
